@@ -42,7 +42,6 @@ function App () {
 					attenuation={0}
 					intensity={0.5}
 				/>
-
 				<OrthographicCamera
 					rotation={[-0.82, 0.69, 0.59]}
 					zoom={isMobileDevice ? 32 : 265}
