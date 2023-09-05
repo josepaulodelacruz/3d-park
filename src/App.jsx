@@ -44,7 +44,7 @@ function App () {
 				/>
 				<OrthographicCamera
 					rotation={[-0.82, 0.69, 0.59]}
-					zoom={isMobileDevice ? 32 : 100}
+					zoom={isMobileDevice ? 32 : 90}
 					makeDefault={true}
 					near={-10}
 					position={[5.5, 5.5, 4.5]}
